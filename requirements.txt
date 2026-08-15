@@ -1,0 +1,10 @@
+streamlit
+google-genai
+chromadb
+pypdf
+python-dotenv
+langchain-text-splitters
+fastapi
+uvicorn[standard]
+python-multipart
+yfinance
