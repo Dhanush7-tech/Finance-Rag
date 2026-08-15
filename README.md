@@ -84,12 +84,20 @@ embedding model `gemini-embedding-001`, LLM `gemini-3.5-flash`.
      app returned figures for several periods rather than isolating just the
      latest one — see honest notes below.*
 2. Compare net profit across all the quarters you loaded. Which was highest?
-   → `<TODO: paste answer>`
+   → The highest net profit was recorded in the 3 months ended June 30, 2026 (from ifrs-inr-press-release.pdf), with a net profit of 7,775 (before non-controlling interests) and 7,769 (after non-controlling interests).
 3. How did revenue in the latest quarter compare with the same quarter of the
    previous year?
-   → `<TODO: paste answer>`
+   → Based on the provided documents, the comparison of revenue for the latest quarters with the same quarter of the previous year is as follows:
+
+For the quarter ended June 30, 2026 (from ifrs-inr-press-release.pdf, page 7):
+
+Revenues were 48,211 (IFRS - INR), compared to 42,279 for the same quarter of the previous year (3 months ended June 30, 2025). This represents an increase in revenue.
+For the quarter ended December 31, 2025 (Q3) (from ifrs-inr-press-release (2).pdf, page 1):
+
+Revenues were $5,099 million, which represents a year-on-year growth of 1.7% in constant currency compared to the same quarter of the previous year.
 4. What did management say about the demand outlook or business environment?
-   → `<TODO: paste answer>`
+   → For FY26, the revenue growth guidance was initially projected at 2%-3% in constant currency (ifrs-inr-press-release (3).pdf) and later updated to 3.0%-3.5% in constant currency (ifrs-inr-press-release (2).pdf).
+For FY27, the revenue growth guidance is projected at 1.5%-3.0% in constant currency (ifrs-inr-press-release.pdf).
 5. Which business segment or geography grew fastest, and by how much?
    → `<TODO: paste answer>`
 6. What was the operating margin in each quarter, and is the trend rising or
